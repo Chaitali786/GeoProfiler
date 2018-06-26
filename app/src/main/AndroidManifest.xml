@@ -13,12 +13,20 @@
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
-                <category android:name="android.intent.category.LAUNCHER" />
+                <category android:name="android.intent.category.DEFAULT" />
             </intent-filter>
         </activity>
-        <activity android:name=".HomeScreen" />
+        <activity android:name=".HomeScreen">
+        <intent-filter>
+            <action android:name="android.intent.action.MAIN" />
+
+            <category android:name="android.intent.category.LAUNCHER" />
+        </intent-filter>
+    </activity>
         <activity android:name=".Login" />
-        <activity android:name=".ProfileMode"></activity>
+        <activity android:name=".ProfileMode" />
+        <activity android:name=".Help" />
+        <activity android:name=".Settings"></activity>
     </application>
 
 </manifest>
