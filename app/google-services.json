@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "327878223215",
+    "firebase_url": "https://geoprofiler-35b9d.firebaseio.com",
+    "project_id": "geoprofiler-35b9d",
+    "storage_bucket": "geoprofiler-35b9d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:327878223215:android:c0898ddb982a86e4",
+        "android_client_info": {
+          "package_name": "com.geoprofiler.chaiqai.geoprofiler"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "327878223215-vua1q7slubo1iqvncocpgqn7ck13c95e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.geoprofiler.chaiqai.geoprofiler",
+            "certificate_hash": "9867f478ef9b22333c2c3c30f586bee16ef8c21a"
+          }
+        },
+        {
+          "client_id": "327878223215-oev6a1be3mj673ihpelcsuf8he6fdk5t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmJETpO9LparxN9c4T200b41hcNPNqR5E"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "327878223215-oev6a1be3mj673ihpelcsuf8he6fdk5t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
